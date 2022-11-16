@@ -1,6 +1,8 @@
 # weightTracker-vue3
 
-https://www.chartjs.org/
+https://www.chartjs.org
+
+
 Simple yet flexible JavaScript charting for designers & developers
 
 Downloads GitHub Workflow Status Coverage Awesome Slack
