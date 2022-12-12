@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 =======
 <p align="center">
   <a href="https://www.chartjs.org/" target="_blank">
