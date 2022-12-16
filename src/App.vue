@@ -28,6 +28,7 @@ const addWeight = () => {
   <h1>Weight Tracker </h1>
   <div class="current">
     <span>{{currentWeight.weight}}</span>
+    <small>Current weight(kg)</small>
   </div>
 </template>
  
