@@ -25,7 +25,10 @@ const addWeight = () => {
 </script>
 
 <template>
-  <h1>Hello , World! </h1>
+  <h1>Weight Tracker </h1>
+  <div class="current">
+    <span>{{currentWeight.weight}}</span>
+  </div>
 </template>
  
 <style scoped>
