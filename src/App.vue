@@ -8,7 +8,6 @@ const weights=ref([])
 const weightChartEl = ref(null)
 
 const weightChart=shallowRef(null)
-
 const weightInput = ref(60.0)
 
 const currentWeight = computed(()=> {
@@ -30,6 +29,14 @@ const addWeight = () => {
     <span>{{currentWeight.weight}}</span>
     <small>Current weight(kg)</small>
   </div>
+  <form @submit.prevent="addWeight">
+  <input type="number" step="0.1" v-model="weightInput">
+  <input type="submit"  value="Add weight">
+
+  
+
+  
+  </form>
 </template>
  
 <style scoped>
