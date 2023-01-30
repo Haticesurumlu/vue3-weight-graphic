@@ -15,6 +15,14 @@
     <a href="https://chartjs-slack.herokuapp.com/"><img src="https://img.shields.io/badge/slack-chartjs-blue.svg?style=flat-square&maxAge=3600" alt="Slack"></a>
 </p>
 
+## Loom
+https://www.loom.com/share/c8e86d1a10734a4788115ad0acacba98
+
+## Screenshots
+![image](https://user-images.githubusercontent.com/71832100/215591420-2efd2935-8637-4c35-914f-5d431ef93f02.png)
+![image](https://user-images.githubusercontent.com/71832100/215591508-81fba3e2-cf5c-4951-9be9-b1647482bf7f.png)
+
+
 ## Documentation
 
 All the links point to the new version 4 of the lib.
