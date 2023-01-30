@@ -112,6 +112,7 @@ watch(weights, (newWeights) => {
 	box-sizing: border-box;
 	font-family: 'montserrat', sans-serif;
 }
+
 body {
 	background-color: #eee;
 }
@@ -234,3 +235,4 @@ form input[type="submit"]:hover {
 	color: #888;
 	font-style: italic;
 }
+</style>
