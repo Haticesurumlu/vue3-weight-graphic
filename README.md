@@ -38,8 +38,6 @@ All the links point to the new version 4 of the lib.
 * [Samples](https://www.chartjs.org/samples/)
 
 In case you are looking for an older version of the docs, you will have to specify the specific version in the url like this: [https://www.chartjs.org/docs/2.9.4/](https://www.chartjs.org/docs/2.9.4/)
-## Loom
-https://www.loom.com/share/c8e86d1a10734a4788115ad0acacba98
 
 ## Contributing
 
